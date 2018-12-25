@@ -3,7 +3,7 @@ This project presents a minimal example of [geofence](https://flows.nodered.org/
 
 ![alt text][example]
 
-[example]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[example]: https://github.com/lunasilvestre/geofencenodered/raw/master/geofence.png "Geofence Node-RED example"
 
 To run this directly in docker at it's simplest just run
 
